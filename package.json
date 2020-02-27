@@ -1,0 +1,25 @@
+{
+  "name": "@neojp/tailwindcss-line-clamp-utilities",
+  "description": "Tailwind CSS `line-clamp` utilities",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Joan Piedra <joan@joanpiedra.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neojp/tailwindcss-line-clamp-utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neojp/tailwindcss-line-clamp-utilities/issues"
+  },
+  "homepage": "https://github.com/neojp/tailwindcss-line-clamp-utilities#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "tailwindcss-utilities",
+    "tailwindcss-utility"
+  ]
+}
