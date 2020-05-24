@@ -1,7 +1,7 @@
 {
   "name": "@neojp/tailwindcss-line-clamp-utilities",
   "description": "Tailwind CSS `line-clamp` utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "SEE LICENSE IN LICENSE",
   "author": "Joan Piedra <joan@joanpiedra.com>",
   "main": "index.js",
@@ -20,6 +20,12 @@
     "tailwindcss",
     "tailwindcss-plugin",
     "tailwindcss-utilities",
-    "tailwindcss-utility"
+    "tailwindcss-utility",
+    "tailwindcss-line-clamp-utilities",
+    "tailwindcss-line-clamp",
+    "line-clamp-utilities",
+    "line-clamp",
+    "line-overflow",
+    "css"
   ]
 }
